@@ -21,6 +21,8 @@ API Documentation: http://wjwwood.github.io/serial/doc/1.1.0/index.html
 ### Dependencies
 
 Required:
+* gcc-aarch64-linux-gnu
+* g++-aarch64-linux-gnu
 * [cmake](http://www.cmake.org) - buildsystem
 
 Optional (for documentation):
